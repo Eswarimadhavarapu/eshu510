@@ -3,9 +3,12 @@ import './App.css';
 
 function App() {
   return (
+
     <div className="App">
-    <h1>Today topics--Remote Repository,</h1>
-      <h1>Clone,Push,Pull<h1>
+      <div>
+        <h1>Today topics--Remote Repository,</h1>
+        <h1>Clone,push, pull</h1>
+      </div>
     </div>
   );
 }
